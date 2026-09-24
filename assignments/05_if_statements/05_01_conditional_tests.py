@@ -1,19 +1,23 @@
 '''
 
 
-chapter 5 assiment 1
-
+chapter 5 assignment 1
+im practicing truth tables
+this is making sense 
 '''
 
-# Player 1 attributes
-waterboy_charisma = 8
-waterboy_strength = 7
+a = "Football"
+b = "Soccer"
+c = ''
 
 
-#Monster attributes
-lavagirl_charisma = 5
-lavagirl_strength = 6
-if waterboy_charisma > lavagirl_charisma:
-    print("Waterboy is more charismatic than Lavagirl.")
-if waterboy_strength > lavagirl_strength:
-    print("Waterboy is stronger than Lavagirl.")
+print(a != b)
+print(a == c)
+print(c > '')
+print(c < '')
+print(c == '')
+print(b != a)
+print(b == c)
+print(c > a)
+print(c < b)
+print(a != c)
