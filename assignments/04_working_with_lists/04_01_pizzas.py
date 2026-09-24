@@ -2,7 +2,7 @@
 
 
 '''
-doing chapter 4 assiment 1
+doing chapter 4 assignment 1
 
 
 '''

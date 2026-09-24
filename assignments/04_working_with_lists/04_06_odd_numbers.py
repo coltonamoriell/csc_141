@@ -1,6 +1,6 @@
 '''
 
-doing chapter 4 assiment 6
+doing chapter 4 assignment 6
 
 
 '''

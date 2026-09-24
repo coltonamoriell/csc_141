@@ -1,12 +1,12 @@
 '''
 
 
-doing chapter 4 assiment 5
+doing chapter 4 assignment 5
 
 
 '''
 
-# I undertsand how to do big number
+# I understand how to do big number
 
 
 big_number = list(range(1, 1000001))

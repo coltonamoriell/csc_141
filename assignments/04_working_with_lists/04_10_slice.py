@@ -1,6 +1,6 @@
 '''
 
-chapter 4 assiment 10
+chapter 4 assignment 10
 
 '''
 
