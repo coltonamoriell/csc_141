@@ -1,6 +1,7 @@
 
 
-
+# Colton Amoriell
+# Difficulty 6/10
 
 
 # List of sandwich orders with 'pastrami' appearing at least three times

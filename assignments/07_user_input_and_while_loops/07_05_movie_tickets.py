@@ -1,5 +1,6 @@
 #
-#
+# Colton Amoriell
+# Difficulty 6/10
 #
 
 

@@ -1,6 +1,6 @@
-
-
-
+# Colton Amoriell
+# Difficulty 6/10
+#
 
 
 # Create the list of sandwich orders and an empty list for finished sandwiches
