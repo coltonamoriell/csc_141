@@ -16,8 +16,3 @@ sent_messages = []
 
 # 2. Call the function using a copy of text_messages [:]
 send_messages(text_messages[:], sent_messages)
-
-# 3. Print both lists to verify the original list is preserved
-print("\n--- Verification ---")
-print(f"Original messages list (text_messages): {text_messages}")
-print(f"Sent messages list (sent_messages): {sent_messages}")

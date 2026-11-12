@@ -21,8 +21,5 @@ while True:
     if album_input.lower() == 'q':
         break
         
-    # Call the function and print the resulting dictionary
-    album_dict = make_album(artist_input, album_input)
-    print("\nGenerated Album Dictionary:")
-    print(album_dict)
-    print("-" * 40)
+ 
+    

@@ -11,13 +11,3 @@ text_messages = [
     "Don't forget to pick up groceries on your way home.",
     "Python functions are actually pretty cool!",
     "Call me when you get a chance."
-]
-sent_messages = []
-
-# 2. Call the function
-send_messages(text_messages, sent_messages)
-
-# 3. Print both lists to verify the changes
-print("\n--- Verification ---")
-print(f"Original messages list (text_messages): {text_messages}")
-print(f"Sent messages list (sent_messages): {sent_messages}")

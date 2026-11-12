@@ -10,7 +10,7 @@ my_profile = build_profile(
     'ai',
     role='personal collaborator',
     specialty='multimodal reasoning',
-    origin='google'
+   
 )
 
 print(my_profile)

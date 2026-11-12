@@ -17,6 +17,3 @@ print(album1)
 print(album2)
 print(album3)
 
-# Create a new function call that includes the number of songs
-album_with_songs = make_album('fleetwood mac', 'rumours', songs=11)
-print(album_with_songs)

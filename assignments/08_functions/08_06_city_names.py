@@ -5,4 +5,3 @@ def city_country(city, country):
 # Call the function with three city-country pairs and print the returned values
 print(city_country('santiago', 'chile'))
 print(city_country('tokyo', 'japan'))
-print(city_country('paris', 'france'))

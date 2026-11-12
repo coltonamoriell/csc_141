@@ -9,7 +9,3 @@ text_messages = [
     "Don't forget to pick up groceries on your way home.",
     "Python functions are actually pretty cool!",
     "Call me when you get a chance."
-]
-
-# Pass the list to the show_messages function
-show_messages(text_messages)

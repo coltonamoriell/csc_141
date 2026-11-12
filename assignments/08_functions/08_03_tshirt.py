@@ -6,5 +6,3 @@ def make_shirt(size, message):
 # 1. Calling the function using positional arguments
 make_shirt('medium', 'Python is Fun!')
 
-# 2. Calling the function using keyword arguments
-make_shirt(size='large', message='Code, Sleep, Repeat.')
